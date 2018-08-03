@@ -1,0 +1,6 @@
+i span.tips{display: none; position: absolute; color: #fff; background: #000; padding: 5px;}
+i {position: relative;}
+i:hover span.tips {display: block; text-align: left; z-index:101}
+
+img.graph {position:absolute; left:180px;top:24px;z-index:100}
+
